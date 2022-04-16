@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HerrDiesel.
-- 👀 I’m interested in JavaScript, C++, C#, Python, servers, VMs, networking, hardware, etc.
+- 👀 I’m interested in JavaScript, C++, Python, servers, VMs, networking, hardware, etc.
 - 🌱 I’m currently learning C#.
 - 📫 You can reach me on Discord: Diesel#4413.
